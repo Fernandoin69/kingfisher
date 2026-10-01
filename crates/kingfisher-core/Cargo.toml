@@ -45,7 +45,7 @@ gix = { version = "0.87", default-features = false, features = ["serde", "sha1"]
 console = "0.16"
 
 # Language detection for content types
-tokei = "14.0.0"
+tokei = "15.0.0"
 
 [dev-dependencies]
 pretty_assertions = "1.4"
